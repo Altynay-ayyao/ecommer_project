@@ -129,6 +129,10 @@ img.medium{
   color: #F3E13D;
 }
 
+.rating span:last-child{
+  color:#491717;
+}
+
 /*kids and cards wrapper*/
 
 .kid{

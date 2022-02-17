@@ -19,7 +19,7 @@ const data = {
       price: 29,
       brand: 'bearbear',
       rating: 4.5,
-      numReviews: 10,
+      numReviews: 8,
       description: 'high quality product',
     },
     {
@@ -30,7 +30,7 @@ const data = {
       price: 29,
       brand: 'bearbear',
       rating: 4.5,
-      numReviews: 10,
+      numReviews: 5,
       description: 'high quality product',
     },
     {
@@ -41,7 +41,7 @@ const data = {
       price: 29,
       brand: 'bearbear',
       rating: 4.5,
-      numReviews: 10,
+      numReviews: 11,
       description: 'high quality product',
     },
     {
@@ -52,7 +52,7 @@ const data = {
       price: 29,
       brand: 'bearbear',
       rating: 4.5,
-      numReviews: 10,
+      numReviews: 8,
       description: 'high quality product',
     },
   ],
